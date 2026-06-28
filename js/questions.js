@@ -1,7 +1,7 @@
 const questions = [
 
 {
-question:"Sach sach bata... 👀 Main tere liye kya hu?",
+question:"Khara Khara sang... 👀 Mi Tuzya sathi Kon ahe ?",
 
 options:[
 "❤️ Bestie",
@@ -12,7 +12,7 @@ answers:[
 
 {
 
-text:"Expected Answer 😌❤️ Chal ab maan liya tu thodi smart hai.",
+text:"Expected Answer 😌❤️ Chal manal ki Tu Thodi Hushar ahe..",
 
 image:"assets/images/meme1.jpg"
 
@@ -20,7 +20,7 @@ image:"assets/images/meme1.jpg"
 
 {
 
-text:"System Crash 💀\n\nYe option choose karne ke baad teri friendship automatically suspend ho gayi 😂",
+text:"System Crash 💀\n\nha option choose kelya nantr apli friendship automatically suspend zali 😂",
 
 image:"assets/images/meme3.jpg"
 
@@ -32,7 +32,7 @@ image:"assets/images/meme3.jpg"
 
 {
 
-question:"Agar mai 24 ghante reply na karu...? 👀",
+question:"Jr mi Barech divas tuzya shi bollo nahi tr tu kay karan...? 👀",
 
 options:[
 
@@ -46,7 +46,7 @@ answers:[
 
 {
 
-text:"Bas itna trust hi dekhna tha 🥹",
+text:"Bas itk trust ch pahaych hot... 🥹",
 
 image:"assets/images/meme4.jpg"
 
@@ -66,13 +66,13 @@ image:"assets/images/meme7.jpg"
 
 {
 
-question:"Meri bezati kitni baar karti hai? 🤨",
+question:"Tu mala kitida roast karate ?? 🤨",
 
 options:[
 
-"😂 Roz",
+"😂 Roj",
 
-"🙂 Kabhi Kabhi"
+"🙂 Kadhi Kadhi "
 
 ],
 
@@ -88,7 +88,7 @@ image:"assets/images/meme2.jpg"
 
 {
 
-text:"Nahi ye nahi ho sakta 🙂",
+text:"Nahi ye tr Nahi hou shakt🙂",
 
 image:"assets/images/meme3.jpg"
 
@@ -100,13 +100,13 @@ image:"assets/images/meme3.jpg"
 
 {
 
-question:"Agar koi mujhe tang kare...? 😏",
+question:"Jr mala koni trass dila...? 😏",
 
 options:[
 
-"🥊 Bachaaungi",
+"🥊 Vachavan",
 
-"📸 Video banaungi"
+"📸 Video Kadhan"
 
 ],
 
@@ -114,7 +114,7 @@ answers:[
 
 {
 
-text:"Ye hui na Best Friend wali baat ❤️",
+text:"Hi zali na Best Friend wali Gosht❤️",
 
 image:"assets/images/meme5.jpg"
 
@@ -134,7 +134,7 @@ image:"assets/images/meme6.jpg"
 
 {
 
-question:"Final Boss 👀 Mere bina tera din...?",
+question:"Final tuza Divas kasa jato jevha mi nasan...?",
 
 options:[
 

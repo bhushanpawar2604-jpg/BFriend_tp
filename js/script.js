@@ -116,7 +116,7 @@ document.querySelector(".question-card").innerHTML=`
 
 <br>
 
-😂 Roast Level : 100%
+😂 Roast Level : 50-50%
 
 <br>
 
@@ -138,27 +138,27 @@ document.querySelector(".question-card").innerHTML=`
 
 Waise...
 
-Ye website randomly nahi bani thi. 😌
+Hi website kay ashich random navhti banavali mi.... 😌
 
 <br><br>
 
-Sirf isliye banayi...
+Fakt ya sathi banavali ki...
 
-Kyuki ek din tune confidently bol diya tha...
+Karn tu ek divashi asach bolli hoti ki....
 
-<b>"Tu din bhar bas timepass hi karta rehta hai."</b> 😭😂
+<b>"Mi divas Bhar rikamach asato ani timepass karato."</b> 😭😂
 
 <br><br>
 
-To socha...
+Mg te mazya ego aal ...
 
-Chal aaj thoda proof de hi dete hain ki coding bhi aati hai. 😎💻
+Mg vatal ki Tula aaj proof detoch ki mala coding yete ki nahi ??? 😎💻
 
 <br><br>
 
 Mission Complete ✅
 
-Ab Dairy Milk pending hai. 🍫😂
+Ata Kitkat pending ahe..Mazya proof sathi.. 🍫😂
 
 </p>
 
