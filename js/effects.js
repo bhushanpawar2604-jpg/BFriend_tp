@@ -101,3 +101,41 @@ document.addEventListener("click",(e)=>{
     }
 
 });
+
+// ==========================
+// Full Screen Image Viewer
+// ==========================
+
+const modal=document.getElementById("imageModal");
+
+const modalImg=document.getElementById("modalImage");
+
+const closeBtn=document.querySelector(".close-modal");
+
+document.addEventListener("click",(e)=>{
+
+    if(e.target.matches(".image-box img")){
+
+        modal.style.display="flex";
+
+        modalImg.src=e.target.src;
+
+    }
+
+});
+
+closeBtn.onclick=()=>{
+
+    modal.style.display="none";
+
+}
+
+modal.onclick=(e)=>{
+
+    if(e.target===modal){
+
+        modal.style.display="none";
+
+    }
+
+}
